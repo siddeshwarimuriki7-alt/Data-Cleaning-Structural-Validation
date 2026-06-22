@@ -1,0 +1,5 @@
+Customer_ID,Name,Email,Date,Email_Valid
+101,John,john@gmail.com,2023-12-01,True
+102,Mary,Not Available,2023-01-15,False
+103,Alice,alice@gmail.com,2023-01-20,True
+104,Bob,bobgmail.com,2023-02-01,False
